@@ -4,6 +4,6 @@ slug  : the-glasshouse
 seal  : 26e6fe7c32393c020c36d1f44a0913de1ee203971ff2e23597a329cb3d31ff2b
 prev  : b41f1cef8cbc5315de33d144356595c9062cb727b5ae4d8c9dfe22c8964016ea
 link  : 70fa0d4073a80f765785107027cc6e4ef9cb023622e34428a335b35598c17ce6
-head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
